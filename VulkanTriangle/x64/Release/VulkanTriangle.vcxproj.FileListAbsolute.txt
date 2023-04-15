@@ -1,0 +1,1 @@
+E:\Kod\Vulkan\Triangle\VulkanTriangle\VulkanTriangle\x64\Release\VulkanTriangle.vcxproj.CopyComplete
